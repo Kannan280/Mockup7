@@ -10,15 +10,15 @@ body {
 
 @font-face {
   font-family: roboto-light;
-  src: url("../fonts/Roboto-Light.ttf");
+  src: url("fonts/Roboto-Light.ttf");
 }
 @font-face {
   font-family: robot-medium;
-  src: url("../fonts/Roboto-Medium.ttf");
+  src: url("fonts/Roboto-Medium.ttf");
 }
 @font-face {
   font-family: roboto-regular;
-  src: url("../fonts/Roboto-Regular.ttf");
+  src: url("fonts/Roboto-Regular.ttf");
 }
 
 .TCmaincontainer {
